@@ -41,6 +41,8 @@ dots.isHide();
 dots.isPlaying();
 ```
 
+Required minimum Android SDK v11
+
 ###Thanks goes to:
 
 <img src="images/polideaLogo.jpg" width="150" height="150"/>
